@@ -29,7 +29,7 @@ ini_set("error_reporting", "E_ALL & ~E_NOTICE");?>
                     <tr>
                         <td>All TF-markers</td>
                         <td>All TF-markers of human.</td>
-                        <td><a download="main.txt" href="public/download/main_download.csv" target="_blank"><i class="ri-download-2-line"></i></a></td>
+                        <td><a download="All TF-markers.txt" href="public/download/All TF-markers.csv" target="_blank"><i class="ri-download-2-line"></i></a></td>
                     </tr>
                     <tr>
                         <td>I Marker</td>
